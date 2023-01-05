@@ -1,1 +1,20 @@
-recipes: {}
+recipes:
+  deserts/chocolate-cake.yml:
+    name: Mi-cuit Chocolate Cake
+    category: Desert
+    type: French
+    difficulty: Easy
+    pictures:
+      - >-
+        https://assets.afcdn.com/recipe/20200831/113620_w2000h1333c1cx1142cy836cxb2121cyb1414.webp
+    durations:
+      preparation: 15m
+      baking: 15m
+      rest: 5m
+    ingredients:
+      - Dark chocolate
+      - Sugar
+      - Butter
+      - Flour
+      - Egg
+      - Icing sugar
