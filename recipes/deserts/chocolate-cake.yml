@@ -1,0 +1,41 @@
+name: "Mi-cuit" Chocolate Cake
+category: Desert
+type: French
+difficulty: Easy
+pictures:
+  - https://assets.afcdn.com/recipe/20200831/113620_w2000h1333c1cx1142cy836cxb2121cyb1414.webp
+durations:
+  preparation: 15m
+  baking: 15m
+  rest: 5m
+yields:
+  amount: 4
+  unit: mi-cuit
+  unit_plural: mi-cuits
+ingredients:
+  - name: Dark chocolate
+    amount: 100
+    unit: g
+  - name: Sugar
+    amount: 120
+    unit: g
+  - name: Butter
+    amount: 90
+    unit: g
+  - name: Flour
+    amount: 40
+    unit: g
+  - name: Egg
+    amount: 3
+  - name: Icing sugar
+    amount: 1
+    unit: pinch
+steps:
+  - Preheat the oven to [preheat:200c]
+  - Melt the {chocolate|Dark chocolate} and the {Butter}
+  - Blanch the {Egg} with the {Sugar}
+  - Add the chocolate-butter mixture
+  - Stir in the {Flour}
+  - Butter the mold and pour the preparation
+  - Bake for 10 to 15 minutes
+  - Sprinkle with icing sugar after a few minutes
